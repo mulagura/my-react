@@ -1,3 +1,7 @@
+https://stackoverflow.com/questions/47761894/why-are-fragments-in-react-16-better-than-container-divs
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
